@@ -1,0 +1,4 @@
+## Definir opção de funçoes , configuraçoes, setar definições.
+
+λ(3)> key_word_list = [{:chave1, "valor1"}, {:chave2, "valor2"}]
+##Return [chave1: "valor1", chave2: "valor2"]
