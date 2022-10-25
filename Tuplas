@@ -1,0 +1,9 @@
+##Muito usado para definir retorno de função e controlar o fluxo de execução.
+
+##Interactive Elixir (1.13.1) - press Ctrl+C to exit (type h() ENTER for help)
+
+λ(1)> tuplas = {:ok, "valor"}
+##Return {:ok, "valor"}
+
+λ(2)> tuplas = {:error, "mensagem"}
+##Return {:error, "mensagem"}
